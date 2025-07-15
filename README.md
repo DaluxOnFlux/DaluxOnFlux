@@ -31,7 +31,7 @@
 [![Shell](https://img.shields.io/badge/Shell-000?logo=zsh&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
-<h4>Outils que j’utilise au quotidien :</h4>
+<h4>Les Outils que j’utilise au quotidien :</h4>
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
