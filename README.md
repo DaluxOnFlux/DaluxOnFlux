@@ -5,7 +5,7 @@
 
 <h3 align="left">Voici quelques technologies que je manipule :</h3>
 
-<h4>Front End</h4>
+<h4>En Front End</h4>
 
 [![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
