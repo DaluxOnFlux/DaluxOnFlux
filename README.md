@@ -39,6 +39,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Jupyter Lab](https://img.shields.io/badge/Jupyter%20Lab-f8bc45?logo=jupyternotebook&logoColor=fff)](#)
 
-<h4>🌍 Où me suivre / me contacter :</h4>
+<h4>🌍 Où me suivre / me contacter:</h4>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/hianeda/)
