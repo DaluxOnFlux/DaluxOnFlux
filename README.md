@@ -31,6 +31,7 @@
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![Shell](https://img.shields.io/badge/Shell-000?logo=zsh&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](#)
 
 <h4>Les Outils que j’utilise au quotidien :</h4>
 
