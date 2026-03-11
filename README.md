@@ -1,4 +1,4 @@
-<h1 align="center">🧑‍💻 Salut ! Ici Dalil </h1>
+<h1 align="center">🧑‍💻 Salut !</h1>
 
 <p align="center">Bienvenue sur mon profil GitHub!</p>
 <p align="center">Apprenti ingénieur en dev web/DevOps, passionné par les technos modernes et toujours partant pour apprendre, tester et construire des projets qui sortent du lot.</p>
